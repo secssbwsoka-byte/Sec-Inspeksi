@@ -1,0 +1,5 @@
+{
+  "name": "GuardCheck - Inspeksi Peralatan Keamanan",
+  "description": "Aplikasi profesional untuk manajemen dan inspeksi rutin peralatan keamanan seperti APAR, CCTV, dan sistem alarm.",
+  "requestFramePermissions": []
+}
